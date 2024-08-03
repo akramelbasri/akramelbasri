@@ -1,6 +1,8 @@
 # Hi, I'm Akram 👋
-
+- 🌱 I’m currently learning at...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akramelbasri&show_icons=true&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramelbasri)](https://github.com/akramelbasri/github-readme-stats)
 <!--
 **akramelbasri/akramelbasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
