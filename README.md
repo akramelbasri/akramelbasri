@@ -1,11 +1,14 @@
 # Hi, I'm Akram 👋
 - 🌱 I’m currently learning at...
 
-  
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=akramelbasri&show_icons=true&layout=compact&hide=contribs,prs" />
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramelbasri&layout=compact" />
+
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akramelbasri&show_icons=true&layout=compact&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramelbasri)](https://github.com/akramelbasri/github-readme-stats&layout=compact)
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramelbasri&layout=compact)](https://github.com/akramelbasri/github-readme-stats)
+
 **akramelbasri/akramelbasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
