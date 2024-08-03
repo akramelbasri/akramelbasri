@@ -1,5 +1,6 @@
 # Hi, I'm Akram 👋
-- 🌱 I’m currently learning at...
+- 🌱 2nd year Master's student in Big Data & Decision Support at the National School of Applied Sciences of Khouribga (ENSAK).
+- Data Scientist | Passionate about AI and IoT.
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=akramelbasri&show_icons=true&layout=compact&hide=contribs,prs" />
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramelbasri&layout=compact" />
