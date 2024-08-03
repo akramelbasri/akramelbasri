@@ -4,7 +4,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akramelbasri&show_icons=true&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramelbasri&layout=compact)](https://github.com/akramelbasri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akramelbasri&layout=compact)](https://github.com/akramelbasri/github-readme-stats&layout=compact)
 <!--
 **akramelbasri/akramelbasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
